@@ -1,16 +1,16 @@
 {
   "name": "adder-math-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
   "keywords": [],
-  "homepage": "https://github.com/bradleyjones/adder-math-ts#readme",
+  "homepage": "https://github.com/singhvivek7/adder-math-ts#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradleyjones/adder-math-ts.git"
+    "url": "git+https://github.com/singhvivek7/adder-math-ts.git"
   },
   "author": "",
   "license": "ISC",
